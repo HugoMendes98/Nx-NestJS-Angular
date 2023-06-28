@@ -1,5 +1,10 @@
 # Nx-NestJS-Angular
 
+> This repository is being relocated here:
+> <https://github.com/heap-code/Nx-NestJS-Angular>.
+>
+> There you can view the latest updates and submit modifications.
+
 A boilerplate structure for a backend, frontend and back-office applications.
 
 [![CI](https://github.com/HugoMendes98/Nx-NestJS-Angular/actions/workflows/ci.yml/badge.svg)](https://github.com/HugoMendes98/Nx-NestJS-Angular/actions/workflows/ci.yml)
