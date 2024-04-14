@@ -1,7 +1,7 @@
 # Nx-NestJS-Angular
 
 > This repository is being relocated here:
-> <https://github.com/heap-code/Nx-NestJS-Angular>.
+> <https://github.com/heap-code/nna>.
 >
 > There you can view the latest updates and submit modifications.
 

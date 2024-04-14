@@ -9,6 +9,7 @@ on:
 
 jobs:
   badging:
+    if: false
     runs-on: ubuntu-latest
     strategy:
       matrix:

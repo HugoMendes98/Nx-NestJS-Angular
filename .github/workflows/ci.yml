@@ -11,6 +11,7 @@ on:
 
 jobs:
   checks:
+    if: false
     runs-on: ubuntu-latest
     strategy:
       matrix:
